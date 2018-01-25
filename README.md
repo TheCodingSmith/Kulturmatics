@@ -1,6 +1,6 @@
 # Kulturmatics
 
-######Links for Globes
+##Links for Globes
 
   http://examples.webglearth.com/#overlays
 
