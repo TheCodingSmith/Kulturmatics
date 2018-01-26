@@ -32,10 +32,9 @@ All mixins will be stored as variables in `src/scss/mixins`
 [NPM Panini information](https://www.npmjs.com/package/panini)
 
 We are using Panini to re-use all partials so we can keep our code as DRY as possible.
-Everything will be sorted into partials and pages. The `nav` and `footer` will be partiala on the main layout so we only have to write it once.
+Everything will be sorted into partials and pages. The `nav` and `footer` will be partials on the main layout so we only have to write it once.
 
-`<!-- Renders partials/header.html -->
-
+`Renders partials/header.html
 {{> header}}`
 
 This will be loosely based on the [Atomice Design System.](http://patternlab.io/)
