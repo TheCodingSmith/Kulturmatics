@@ -27,6 +27,8 @@ All colors will be stored as variables in `src/scss/colors`
 
 All mixins will be stored as variables in `src/scss/mixins`
 
+Add new sass/scss files to `src/scss/app.scss` to render.
+
 ## Using Panini
 
 [NPM Panini information](https://www.npmjs.com/package/panini)
