@@ -3,3 +3,7 @@ body {
 
 .main-nav {
   background-color: #000; }
+
+#globeSpace {
+  width: 100% !important;
+  height: auto !important; }
